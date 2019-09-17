@@ -1,0 +1,207 @@
+<?xml version='1.0'?>
+<pages>
+    <doc fname="xavier"></doc>
+    <page pageno="0">  <!-- block="YES" -->
+       <bgmusic fname="XavierOverture" loop="NO" ></bgmusic> -->
+    </page>
+    <page pageno="4">
+    <bgmusic fname="aligator" loop="YES" block="NO"></bgmusic> -->
+        <overlay fname="a.png" locx="1.57" width="5.8" locy="5.25" height="4.1" sname="a"> <!-- no file extension -->
+            <touchanimation></touchanimation>
+        </overlay>
+    </page>
+    <page pageno="5">
+   <!--      <bgmusic fname="page6" loop="YES" block="NO"></bgmusic> -->
+   <bgmusic fname="bear" loop="YES" block="NO"></bgmusic> -->
+        <overlay fname="b.png" locx="1" width="5.5" locy="5" height="4.0" sname="b">
+            <touchanimation></touchanimation>
+        </overlay>
+    </page>
+    <page pageno="6">
+        <bgmusic fname="cow" loop="YES" block="NO"></bgmusic> -->
+        <overlay fname="c.png" locx="0" width="7" locy="6" height="3.5" sname="c">
+            <touchanimation></touchanimation>
+        </overlay>
+    </page>
+    <page pageno="7">
+        <bgmusic fname="duck" loop="YES" block="NO"></bgmusic> -->
+        <overlay fname="d.png" locx="1" width="6" locy="6" height="3.0" sname="d">
+            <touchanimation></touchanimation>
+        </overlay>
+    </page>
+    <page pageno="8">
+        <bgmusic fname="eagle" loop="YES" block="NO"></bgmusic> -->
+        <overlay fname="e.png" locx="2" width="4.5" locy="4" height="4.5" sname="e">
+            <touchanimation></touchanimation>
+        </overlay>
+    </page>
+    <page pageno="9">
+        <bgmusic fname="flamingo" loop="YES" block="NO"></bgmusic> -->
+        <overlay fname="f1.png" locx="4.75" width=".4" locy="5.6" height=".6" sname="f">
+            <touchanimation></touchanimation>
+        </overlay>
+        <overlay fname="f.png" locx="3" width="3" locy="1" height="8" sname="f">
+            <touchanimation></touchanimation>
+        </overlay>
+    </page>
+    <page pageno="10">
+        <bgmusic fname="giraffe" loop="YES" block="NO"></bgmusic> -->
+       <overlay fname="g.png" locx="2" width="5.4" locy="1" height="9.5" sname="g">
+            <touchanimation></touchanimation>
+        </overlay>
+    </page> 
+    <page pageno="11">
+        <bgmusic fname="hippo" loop="YES" block="NO"></bgmusic> -->
+        <overlay fname="h.png" locx=".5" width="7.25" locy="5" height="4.2" sname="h">
+            <touchanimation></touchanimation>
+        </overlay>
+    </page>   
+    <page pageno="12">
+        <bgmusic fname="iomoth" loop="YES" block="NO"></bgmusic> -->
+        <overlay fname="i.png" locx="1.5" width="5.25" locy="5" height="4.2" sname="i">
+            <touchanimation></touchanimation>
+        </overlay>
+    </page>   
+    <page pageno="13">
+        <bgmusic fname="Jackrabbit" loop="YES" block="NO"></bgmusic> -->
+        <overlay fname="j.png" locx="3.5" width="3.5" locy="5" height="4" sname="j">
+            <touchanimation></touchanimation>
+        </overlay>
+    </page>   
+    <page pageno="14">
+        <bgmusic fname="kitten" loop="YES" block="NO"></bgmusic> -->
+        <overlay fname="k.png" locx="1.75" width="4.75" locy="5" height="4.75" sname="k">
+            <touchanimation></touchanimation>
+        </overlay>
+    </page>   
+    <page pageno="15">
+        <bgmusic fname="lion" loop="YES" block="NO"></bgmusic> -->
+        <overlay fname="l.png" locx="0" width="7.5" locy="5" height="5.25" sname="l">
+            <touchanimation></touchanimation>
+        </overlay>
+    </page>   
+    <page pageno="16">
+        <bgmusic fname="mouse" loop="YES" block="NO"></bgmusic> -->
+        <overlay fname="m.png" locx="3.75" width="3.75" locy="7.5" height="1.5" sname="m">
+            <touchanimation></touchanimation>
+        </overlay>
+    </page>      
+   <page pageno="17">
+       <bgmusic fname="nightingale" loop="YES" block="NO"></bgmusic> -->
+        <overlay fname="n.png" locx="1.75" width="5.75" locy="4" height="3.5" sname="n">
+            <touchanimation></touchanimation>
+        </overlay>
+    </page>      
+    <page pageno="18">
+        <bgmusic fname="Oyster" loop="YES" block="NO"></bgmusic> -->
+        <overlay fname="o.png" locx="1.0" width="5" locy="4" height="4.5" sname="o">
+            <touchanimation></touchanimation>
+        </overlay>
+        <overlay fname="o2.png" locx="3.0" width=".5" locy="7.25" height=".5" sname="o2">
+            <touchanimation></touchanimation>
+        </overlay>
+    </page> 
+    <page pageno="19">
+        <bgmusic fname="peacock" loop="YES" block="NO"></bgmusic> -->
+        <overlay fname="p.png" locx="1.75" width="5" locy="3.5" height="7" sname="p">
+            <touchanimation></touchanimation>
+        </overlay>
+    </page>      
+    <page pageno="20">
+        <bgmusic fname="quail" loop="YES" block="NO"></bgmusic> -->
+        <overlay fname="q.png" locx="2.5" width="4.6" locy="5.5" height="4.25" sname="q">
+            <touchanimation></touchanimation>
+        </overlay>
+    </page>      
+    <page pageno="21">
+        <bgmusic fname="rhino" loop="YES" block="NO"></bgmusic> -->
+        <overlay fname="r.png" locx="0.75" width="6.5" locy="6" height="3.5" sname="r">
+            <touchanimation></touchanimation>
+        </overlay>
+    </page>      
+    <page pageno="22">
+        <bgmusic fname="squirrel" loop="YES" block="NO"></bgmusic> -->
+        <overlay fname="s.png" locx="2.75" width="3.5" locy="6" height="3.25" sname="s">
+            <touchanimation></touchanimation>
+        </overlay>
+    </page>      
+    <page pageno="23">
+        <bgmusic fname="turtle" loop="YES" block="NO"></bgmusic> -->
+        <overlay fname="t.png" locx="2.0" width="5" locy="6" height="3" sname="t">
+            <touchanimation></touchanimation>
+        </overlay>
+    </page>      
+    <page pageno="24">
+        <bgmusic fname="unicorn" loop="YES" block="NO"></bgmusic> -->
+        <overlay fname="u.png" locx="0.5" width="7.5" locy="5.5" height="4" sname="u" type="Vanish">
+            <touchanimation></touchanimation>
+        </overlay>
+    </page>    
+    
+    <page pageno="25">
+        <bgmusic fname="vixen" loop="YES" block="NO"></bgmusic> -->
+        <overlay fname="v.png" locx="0.5" width="7.5" locy="6" height="4" sname="v">
+            <touchanimation></touchanimation>
+        </overlay>
+    </page>      
+    <page pageno="26">
+        <bgmusic fname="wipowil" loop="YES" block="NO"></bgmusic> -->
+        <overlay fname="w2.png" locx="3.5" width="1" locy="8.75" height=".5" sname="w">
+            <touchanimation></touchanimation>
+        </overlay>
+        <overlay fname="w.png" locx="1" width="6" locy="7.5" height="2" sname="w">
+            <touchanimation></touchanimation>
+        </overlay>
+    </page>      
+    <page pageno="27">
+        <bgmusic fname="xavier_theme" loop="YES" block="NO"></bgmusic> -->
+        <overlay fname="x0.png" locx="1.25" width="3" locy="4.25" height="4" sname="x" type="Sparkle">
+            <touchanimation></touchanimation>
+        </overlay>
+        <overlay fname="x1.png" locx="1" width="1" locy="4" height="1" sname="x" type="Sparkle">
+            <touchanimation></touchanimation>
+        </overlay>
+        <overlay fname="x4.png" locx="6" width="1.3" locy="1" height="4" sname="x" type="Sparkle">
+            <touchanimation></touchanimation>
+        </overlay>
+    </page>      
+    <page pageno="28">
+        <overlay fname="x2.png" locx="1" width="2" locy="5.5" height="2" sname="x" type="Sparkle">
+            <touchanimation></touchanimation>
+        </overlay>
+        <overlay fname="x5.png" locx="1" width="2.5" locy=".5" height="3" sname="x" type="Sparkle">
+            <touchanimation></touchanimation>
+        </overlay>
+        <overlay fname="x3.png" locx="6" width="1.6" locy="1" height="2.5" sname="x" type="Sparkle">
+            <touchanimation></touchanimation>
+        </overlay>
+        <overlay fname="x6.png" locx="4.75" width="3.75" locy="6.5" height="2.5" sname="x" type="Sparkle">
+            <touchanimation></touchanimation>
+        </overlay>
+    </page>      
+    <page pageno="29">
+        <bgmusic fname="yak" loop="YES" block="NO"></bgmusic> -->
+        <overlay fname="y.png" locx="1" width="6.75" locy="5.5" height="5.5" sname="y">
+            <touchanimation></touchanimation>
+        </overlay>
+    </page>      
+    
+<!--
+    <page pageno="33">
+        <overlay fname="z.png" locx="1" width="6.5" locy="6" height="4" sname="z">
+            <touchanimation></touchanimation>
+        </overlay>
+    </page>      
+ -->
+    <page pageno="30">
+        <bgmusic fname="zebra" loop="YES" block="NO"></bgmusic> -->
+        <overlay fname="z.png" locx="1" width="6.5" locy="6" height="4" sname="zebrafade" type="Animation" images="zebra" duration="1">
+            <touchanimation></touchanimation>
+        </overlay>
+    </page>      
+
+    <page pageno="31">  <!-- block="YES" -->
+        <bgmusic fname="abcinterlude" loop="NO" ></bgmusic> 
+    </page>
+
+</pages>

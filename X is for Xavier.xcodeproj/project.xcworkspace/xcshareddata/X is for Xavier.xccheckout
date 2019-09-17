@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8B6DE05C-BCFA-409A-8EE8-AB8B9929A7E6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>X is for Xavier</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>dfb2516b-6a61-4a66-b900-0c976e3283c9</key>
+		<string>http://rabbithillsolutions.unfuddle.com/svn/rabbithillsolutions_xav</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>X is for Xavier/X is for Xavier.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>dfb2516b-6a61-4a66-b900-0c976e3283c9</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>dfb2516b-6a61-4a66-b900-0c976e3283c9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>dfb2516b-6a61-4a66-b900-0c976e3283c9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>X%20is%20for%20Xavier</string>
+		</dict>
+	</array>
+</dict>
+</plist>
